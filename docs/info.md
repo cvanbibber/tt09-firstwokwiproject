@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It has a 3 bit counter that counts up to 7 and then resets. The counter is displayed on a 7-segment display.
 
 ## How to test
 
-Explain how to use your project
+To test, connect the 7-segment display to the ASIC and run the program. The counter should be displayed on the display. The counter should reset to 0 after pressing the reset button.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display, reset button for nreset
